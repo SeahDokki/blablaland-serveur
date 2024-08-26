@@ -10,6 +10,8 @@ N'hésitez pas à contribuer au projet si vous rencontrez des bugs
 - Faites remonter les bugs en créant de issues sur ce repos
 - Participer au projet en créant vos propre pull request
 
+  Besoin d'aide ? Rejoins le [Discord Officiel Blablaland.link](https://discord.gg/aPtdHc7z4q)
+
 # Installation
 ## AVANT TOUTE CHOSE ⚠️
 **Lisez le README.MD du dépot [blablaland-site](https://github.com/SeahDokki/blablaland-site/tree/main), le serveur est inutile sans avoir fait au préalable les étapes d'installation du site.**
