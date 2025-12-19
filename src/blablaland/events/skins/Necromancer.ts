@@ -54,7 +54,7 @@ class Necromancer {
             const positionY: number = event.packet.bitReadSignedInt(16)
 
             let mapFound = Maps.find(m => m.id == user.mapId)
-            mapFound = Maps.find(m => m.id == mapFound?.paradisId ?? 253)
+            mapFound = Maps.find(m => m.id == (mapFound?.paradisId ?? 253))
 
             if (mapFound) {
                 let socketMessage: SocketMessage = new SocketMessage
